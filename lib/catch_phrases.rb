@@ -13,7 +13,7 @@ def link
   puts phrase
 end  
 
-def all_methods
+def all_phrases
   mario
   toadstool
   link
