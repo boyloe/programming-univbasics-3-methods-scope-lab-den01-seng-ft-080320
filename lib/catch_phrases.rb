@@ -17,4 +17,4 @@ def all_methods
   mario
   toadstool
   link
-  
+end  
